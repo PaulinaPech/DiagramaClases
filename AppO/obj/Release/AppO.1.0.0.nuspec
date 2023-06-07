@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppO</id>
+    <version>1.0.0</version>
+    <title>AppO</title>
+    <authors>AppO</authors>
+    <readme>README.md</readme>
+    <description>Diagrama de clases para app by Pau</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Stephanie\source\repos\AppO\AppO\bin\Release\net6.0\AppO.dll" target="lib\net6.0\AppO.dll" />
+    <file src="C:\Users\Stephanie\source\repos\AppO\AppO\README.md" target="\README.md" />
+  </files>
+</package>
